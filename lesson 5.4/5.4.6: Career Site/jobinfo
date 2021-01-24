@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Homes and All</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+	<body>
+		<div class="header"><h1>I am a Real estates agent</h1></div>
+		<div class="content"><h3>Description</h3>
+		    <p> yeah bro</p>
+		<h3>Average Salary</h3>
+		    <p>realistically, not that much</p>
+		<h3>Employers</h3>
+		    <ul>
+		        <li>Schools</li>
+		        <li>people</li>
+		        <li>people who work for home stuff</li>
+		    </ul>
+		<h3>Related Careers</h3>
+		<h3>Detailed Information</h3>
+		<iframe src="https://www.onetonline.org/"></iframe></div>
+		<div class="footer"><p><a href="index.html">Home</a></p></div>
+
+	</body>
+</html>
