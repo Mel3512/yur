@@ -1,0 +1,56 @@
+ul{
+    list-style:square;
+}
+body{
+    font-size:20px;
+}
+
+
+#seong:hover::after{
+    background-color:PaleGoldenRod;
+    content:"  suyhrghb me! Pick me!";
+}
+
+#seong:active::after{
+    background-color:PaleGoldenRod;
+    content:"  wehgjfuio me! Pick me!";
+}
+
+
+
+
+#andile:hover::after{
+    background-color:PaleGoldenRod;
+    content:"  wehgjfuio mehfbeujwa! Pick me!";
+}
+
+
+#andile:active::after{
+    background-color:PaleGoldenRod;
+    content:"  wehgjfuio me! Pickwefuhig me!";
+}
+
+
+
+#shakti:hover::after{
+    background-color:PaleGoldenRod;
+    content:"  wehgjfuio mehfbeuwggewwgwwgwgegjwa! Pick me!";
+}
+
+
+#shakti:active::after{
+    background-color:PaleGoldenRod;
+    content:"  wehgjfuio me! Pickfgewwerggwwefuhig me!";
+}
+
+
+/*
+li:hover::after{
+    background-color:PaleGoldenRod;
+    content:"  Pick me! Pick me!";
+}
+
+li:active::after{
+    background-color: #46c70b;
+    content: " You have made a good decision";
+}
