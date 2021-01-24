@@ -1,0 +1,15 @@
+img {
+    height: 300px;  
+}
+img.filtered-image{
+    animation:invertfilter 3s forwards;
+}
+
+@keyframes invertfilter{
+    from(
+        filter:invert(0%)
+    )
+    to(
+        filter:invert(100%)
+    )
+}
