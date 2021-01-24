@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Little Bill Estates</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+	<body>
+		<h1>Home estsates is the study of selling homes.</h1>
+		<h2>Home estates falls into the home selling region of regions</h2>
+		<p>I am interested because of home selling being selling homes</p>
+		<a href="jobinfo.html">More Information</a>
+	</body>
+</html>
