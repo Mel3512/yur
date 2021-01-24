@@ -1,0 +1,27 @@
+thead{
+    background-color:midnightblue;
+    color:white;
+
+
+}
+#aliceblue{
+    background-color:AliceBlue;
+}
+#lightseagreen{
+    background-color:LightSeaGreen;
+}
+#orangered{
+    background-color:OrangeRed;
+}
+#brown{
+    background-color:#824a4a;
+}
+#red{
+    background-color:#ff0000;
+}
+td{
+    color:black;
+}
+table{
+    border:dotted;
+}
