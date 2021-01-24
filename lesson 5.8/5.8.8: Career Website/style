@@ -1,0 +1,55 @@
+h3 {
+    text-transform: uppercase;
+}
+
+p {
+    text-align: right;
+    font-family: Arial;
+}
+
+body {
+    background-color: Thistle;
+}
+
+a { font-size: 16px;
+font-style: italic;
+}
+
+iframe {
+    width:100%; height: 600px;
+}
+
+.header { border-style: solid; 
+background-color: Thistle;
+
+}
+
+.content {
+    height: 80%; width: 70%;
+    background-color: Thistle;
+
+}
+
+.footer {
+    background-color: Thistle;
+
+}
+.job-title {
+    font-weight: bold;
+    color: Maroon;
+}
+
+span { 
+    font-weight:bold;
+    color:maroon;
+}
+
+.large-list {
+    font-size:25px;
+    font-weight:bold;
+}
+ol ul {
+    font-size:18px;
+    font-wight:normal;
+
+}
