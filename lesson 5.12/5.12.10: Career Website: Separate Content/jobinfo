@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Art</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+
+    <body>
+    <div class="header">
+        <h1>Artist</h1>
+    </div>
+    <div class="content">
+        <h3>Description</h3>
+        <p>Create functional or decorative objects by hand, using a variety of methods and materials.</p>
+        <h3>Average Salary</h3>
+        <p>$49,520</p>
+        <h3>Employers</h3>
+        <ul>
+            <li>Self Employed</li>
+        </ul>
+        <h3>Related Careers</h3>
+        <ul>
+            <li> <span class="job-title"> Photographers: </span>Photographers use technological skills to take and preserve photos</li>
+            <li> <span class="job-title"> Fashion Designers: </span>Fashion designers make clothing.</li>
+            <li><span class="job-title"></span> Graphic Designers: </span>Graphic designers create visual concepts using computer programs.</li>
+            </ul>
+        <h3>Related Information</h3>
+        <iframe src = "https://www.onetonline.org/link/summary/27-1013.00%22%3E"></iframe>
+    </div>
+    <div class="footer">
+        <a href="index.html" > Home </a>
+        <a href = "milestones.html"> Mile Stones </a>
+    </div>
+    </body>
+</html>
